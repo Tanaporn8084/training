@@ -6,4 +6,4 @@ elif age == 30:
     print("you are 30 \nstill younger")
   
 else:
-    print("you are 30 year old younger\ncongreatolation")
+    print("you are 30 year old younger \ncongreatolation")

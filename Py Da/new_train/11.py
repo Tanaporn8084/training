@@ -20,6 +20,7 @@
 #else:
     #print("you are not quality") 
 
+#if not and or ใช้เรียงกัน
 country = input("what is your country?")
 if not country == "thai":
     print("you are not thai")
