@@ -1,3 +1,4 @@
+#in ใน string
 name = "Josh"
 
 print("p" in name)
